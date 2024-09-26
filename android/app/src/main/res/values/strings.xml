@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">evride</string>
+    <string name="title_activity_main">evride</string>
+    <string name="package_name">com.milodevs.evride</string>
+    <string name="custom_url_scheme">com.milodevs.evride</string>
+</resources>
